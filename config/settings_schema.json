@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Settings",
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "Add settings for the theme in the settings_schema.json file."
+      }
+    ]
+  }
+]
